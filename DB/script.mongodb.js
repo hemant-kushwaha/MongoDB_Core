@@ -8,8 +8,5 @@ db.products.aggregate([
         $sum:'$price'
        },
     },
-    $project: {
-      
-    }
   },
 ]);
