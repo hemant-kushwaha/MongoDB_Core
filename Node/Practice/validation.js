@@ -17,6 +17,7 @@ const db = connectedClient.db("todo");
 //         title: {
 //           bsonType: "string",
 //           maxLength: 20,
+//.          description :"title max length can be 20 only",
 //         },
 //         status: {
 //           bsonType: "string",
