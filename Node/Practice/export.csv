@@ -1,0 +1,21 @@
+_id,title,status,priority
+ObjectId(6a76160bbe03239196b5f899),Learn MongoDB,pending,high
+ObjectId(6a76160cbe03239196b5f89a),Build REST API,in-progress,high
+ObjectId(6a76160cbe03239196b5f89b),Learn Aggregation,completed,medium
+ObjectId(6a76160cbe03239196b5f89c),Practice DSA,pending,medium
+ObjectId(6a76160cbe03239196b5f89d),Read NestJS Docs,completed,low
+ObjectId(6a76160cbe03239196b5f89e),Fix Login Bug,in-progress,high
+ObjectId(6a76160cbe03239196b5f89f),Write Unit Tests,pending,medium
+ObjectId(6a76160cbe03239196b5f8a0),Deploy Backend,completed,high
+ObjectId(6a76160cbe03239196b5f8a1),Update Resume,pending,low
+ObjectId(6a76160cbe03239196b5f8a2),Practice Git,completed,medium
+ObjectId(6a76160cbe03239196b5f8a3),Study Indexing,pending,high
+ObjectId(6a76160cbe03239196b5f8a4),Optimize Queries,in-progress,high
+ObjectId(6a76160cbe03239196b5f8a5),Learn Docker,completed,medium
+ObjectId(6a76160cbe03239196b5f8a6),Code Review,pending,low
+ObjectId(6a76160cbe03239196b5f8a7),Refactor API,in-progress,medium
+ObjectId(6a76160cbe03239196b5f8a8),Learn Redis,completed,high
+ObjectId(6a76160cbe03239196b5f8a9),Implement Pagination,pending,medium
+ObjectId(6a76160cbe03239196b5f8aa),Create Swagger Docs,completed,low
+ObjectId(6a76160cbe03239196b5f8ab),Learn Transactions,pending,high
+ObjectId(6a76160cbe03239196b5f8ac),Final Project,in-progress,high
